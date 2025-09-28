@@ -2,9 +2,33 @@
 	"name": "Cool",
 	"colors": {
 		"editor.background": "#141435",
-		"editor.foreground": "#FA812F",
+		"editorGroup.emptyBackground": "#141435",
+		"editor.foreground": "#A0A0A0",
 		"activityBarBadge.background": "#FA812F",
-		"sideBarTitle.foreground": "#141435"
+		"sideBarTitle.foreground": "#A0A0A0"
+		,"sideBar.background": "#141435"
+		,"sideBarSectionHeader.background": "#141435"
+		,"sideBarSectionHeader.foreground": "#A0A0A0"
+		,"activityBar.background": "#141435"
+		,"activityBar.foreground": "#FFFFFF"
+		,"activityBar.activeBackground": "#141435"
+		,"activityBar.activeBorder": "#FA812F"
+		,"activityBar.inactiveForeground": "#FFFFFF"
+		,"list.activeSelectionBackground": "#141435"
+		,"list.inactiveSelectionBackground": "#141435"
+		,"list.hoverBackground": "#141435"
+		,"list.focusBackground": "#141435"
+		,"sideBar.foreground": "#A0A0A0"
+		,"titleBar.activeBackground": "#141435"
+		,"titleBar.inactiveBackground": "#141435"
+		,"titleBar.activeForeground": "#A0A0A0"
+		,"titleBar.inactiveForeground": "#A0A0A0"
+		,"menubar.selectionBackground": "#141435"
+		,"menubar.selectionForeground": "#A0A0A0"
+		,"tab.activeBackground": "#141435"
+		,"tab.inactiveBackground": "#141435"
+		,"tab.activeForeground": "#FFFFFF"
+		,"tab.inactiveForeground": "#A0A0A0"
 	},
 	"tokenColors": [
 		{
@@ -180,6 +204,10 @@
 			"settings": {
 				"foreground": "#FFCB6B"
 			}
+					,"tab.unfocusedActiveBackground": "#141435",
+					"tab.unfocusedInactiveBackground": "#141435",
+					"editorGroupHeader.tabsBackground": "#141435",
+					"editorGroupHeader.noTabsBackground": "#141435",
 		},
 		{
 			"name": "Entity Types",
@@ -350,15 +378,23 @@
 				"foreground": "#08f69b"
 			}
 		},
-						"punctuation.definition.bracket",
-						"punctuation.definition.brace"
-						,"punctuation.definition.paren"
-						,"punctuation.definition.square"
-						,"punctuation.definition.curly"
-						,"punctuation.section.array"
-						,"punctuation.section.block"
-						,"punctuation.section.embedded.begin"
-						,"punctuation.section.embedded.end",
+		{
+			"name": "All Brackets",
+			"scope": [
+				"punctuation.definition.bracket",
+				"punctuation.definition.brace",
+				"punctuation.definition.paren",
+				"punctuation.definition.square",
+				"punctuation.definition.curly",
+				"punctuation.section.array",
+				"punctuation.section.block",
+				"punctuation.section.embedded.begin",
+				"punctuation.section.embedded.end"
+			],
+			"settings": {
+				"foreground": "#f4c300"
+			}
+		},
 		{
 			"name": "ES7 Bind Operator",
 			"scope": [
