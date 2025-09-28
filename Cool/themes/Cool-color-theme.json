@@ -15,10 +15,6 @@
 		,"activityBar.activeBorder": "#FA812F"
 		,"activityBar.inactiveForeground": "#FFFFFF"
 		,"list.activeSelectionBackground": "#141435"
-		,"list.inactiveSelectionBackground": "#141435"
-		,"list.hoverBackground": "#141435"
-		,"list.focusBackground": "#141435"
-		,"sideBar.foreground": "#A0A0A0"
 		,"titleBar.activeBackground": "#141435"
 		,"titleBar.inactiveBackground": "#141435"
 		,"titleBar.activeForeground": "#A0A0A0"
@@ -29,6 +25,8 @@
 		,"tab.inactiveBackground": "#141435"
 		,"tab.activeForeground": "#FFFFFF"
 		,"tab.inactiveForeground": "#A0A0A0"
+		,"editorGroupHeader.noTabsBackground": "#141435"
+		,"editorGroupHeader.tabsBackground": "#141435"
 	},
 	"tokenColors": [
 		{
@@ -204,10 +202,6 @@
 			"settings": {
 				"foreground": "#FFCB6B"
 			}
-					,"tab.unfocusedActiveBackground": "#141435",
-					"tab.unfocusedInactiveBackground": "#141435",
-					"editorGroupHeader.tabsBackground": "#141435",
-					"editorGroupHeader.noTabsBackground": "#141435",
 		},
 		{
 			"name": "Entity Types",
