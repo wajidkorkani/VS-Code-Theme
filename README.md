@@ -13,14 +13,15 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
+
 # Cool Theme for VS Code
 
 Cool is a modern, dark theme for Visual Studio Code designed for clarity and style. It features:
 
-- **Backgrounds:** Deep blue (#141435) for editor, sidebar, tab bar, and empty areas
-- **Brackets:** All brackets and angle brackets are colored #f4c300 for easy code navigation
+- **Backgrounds:** Black (#020202) for editor, sidebar, tab bar, and empty areas
 - **Text:** Gray (#A0A0A0) for sidebar and inactive tabs, white (#FFFFFF) for active tabs and icons
 - **Accent:** Orange (#FA812F) for highlights and activity bar badge
+- **Comments:** Italic white (#FFFFFF) for comments
 - **Custom Colors:** Many syntax elements use unique colors for readability
 
 ## Installation
@@ -36,11 +37,11 @@ Cool is a modern, dark theme for Visual Studio Code designed for clarity and sty
 ## Example Colors
 | Element                | Color     |
 |------------------------|-----------|
-| Editor Background      | #141435   |
-| Brackets               | #f4c300   |
+| Editor Background      | #020202   |
 | Sidebar Text           | #A0A0A0   |
 | Active Tab Text        | #FFFFFF   |
 | Accent (Badge)         | #FA812F   |
+| Comment Text           | #FFFFFF   |
 
 ## Credits
 Created by Zem. Inspired by developer feedback.
