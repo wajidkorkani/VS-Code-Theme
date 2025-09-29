@@ -1,33 +1,33 @@
 {
 	"name": "Cool",
 	"colors": {
-		"editor.background": "#141435",
-		"editorGroup.emptyBackground": "#141435",
+	"editor.background": "#020202",
+	"editorGroup.emptyBackground": "#020202",
 		"editor.foreground": "#A0A0A0",
 		"activityBarBadge.background": "#FA812F",
 		"sideBarTitle.foreground": "#A0A0A0"
-		,"sideBar.background": "#141435"
-		,"sideBarSectionHeader.background": "#141435"
+		,"sideBar.background": "#020202"
+	,"sideBarSectionHeader.background": "#020202"
 		,"sideBarSectionHeader.foreground": "#A0A0A0"
-		,"activityBar.background": "#141435"
-		,"activityBar.foreground": "#FFFFFF"
-		,"activityBar.activeBackground": "#141435"
-		,"activityBar.activeBorder": "#FA812F"
-		,"activityBar.inactiveForeground": "#FFFFFF"
-		,"list.activeSelectionBackground": "#141435"
-		,"titleBar.activeBackground": "#141435"
-		,"titleBar.inactiveBackground": "#141435"
+	,"activityBar.background": "#020202",
+	"activityBar.foreground": "#FFFFFF",
+	"activityBar.activeBorder": "#FA812F",
+	"sideBarSectionHeader.foreground": "#A0A0A0",
+		"activityBar.inactiveForeground": "#A0A0A0"
+		,"list.activeSelectionBackground": "#020202"
+	,"titleBar.activeBackground": "#020202"
+	,"titleBar.inactiveBackground": "#020202"
 		,"titleBar.activeForeground": "#A0A0A0"
 		,"titleBar.inactiveForeground": "#A0A0A0"
-		,"menubar.selectionBackground": "#141435"
+		,"menubar.selectionBackground": "#020202"
 		,"menubar.selectionForeground": "#A0A0A0"
-		,"tab.activeBackground": "#141435"
-		,"tab.inactiveBackground": "#141435"
+		,"tab.activeBackground": "#020202"
+		,"tab.inactiveBackground": "#020202"
 		,"tab.activeForeground": "#FFFFFF"
 		,"tab.inactiveForeground": "#A0A0A0"
-		,"editorGroupHeader.noTabsBackground": "#141435"
-		,"editorGroupHeader.tabsBackground": "#141435"
-		,"chatInput.background": "#0b0b33"
+		,"editorGroupHeader.noTabsBackground": "#020202"
+		,"editorGroupHeader.tabsBackground": "#020202"
+        
 	},
 	"tokenColors": [
 		{
