@@ -1,0 +1,23 @@
+{
+  "name": "vs-code-theme",
+  "version": "1.0.0",
+  "description": "You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wajidkorkani/VS-Code-Theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wajidkorkani/VS-Code-Theme/issues"
+  },
+  "homepage": "https://github.com/wajidkorkani/VS-Code-Theme#readme",
+  "dependencies": {
+    "@mdn/browser-compat-data": "^7.1.8"
+  }
+}
