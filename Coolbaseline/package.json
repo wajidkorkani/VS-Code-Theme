@@ -1,0 +1,52 @@
+{
+  "name": "Coolbaseline",
+  "displayName": "Coolbaseline",
+  "description": "Coolbaseline theme is great theme for every developer.",
+  "version": "0.0.2",
+  "publisher": "yourname",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+
+  "icon": "media/Coolbaseline.png",
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "main": "./extension.js",
+  "activationEvents": [
+    "onLanguage:css",
+    "onLanguage:html",
+    "onLanguage:javascript",
+    "onView:baseline-view"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cool",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cool-color-theme.json"
+      }
+    ],
+    "viewsContainers": {
+      "activitybar": [
+        {
+          "id": "baseline-sidebar",
+          "title": "Baseline",
+          "icon": "media/baseline.svg"
+        }
+      ]
+    },
+    "views": {
+      "baseline-sidebar": [
+        {
+          "id": "baseline-view",
+          "name": "Baseline Info"
+        }
+      ]
+    }
+  },
+  "dependencies": {
+    "@mdn/browser-compat-data": "^5.6.29"
+  }
+}
