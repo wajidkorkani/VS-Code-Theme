@@ -1,6 +1,6 @@
-# Cool Theme for VS Code
+# Coolbaseline Theme for VS Code
 
-Cool is a modern, dark theme for Visual Studio Code designed for clarity and style. It features:
+Coolbaseline is a modern, dark theme for Visual Studio Code designed for clarity and style. It features:
 
 - **Backgrounds:** Black (#020202) for editor, sidebar, tab bar, and empty areas
 - **Text:** Gray (#A0A0A0) for sidebar and inactive tabs, white (#FFFFFF) for active tabs and icons
@@ -34,4 +34,4 @@ Created by Abdul Wajid Korkani. Inspired by developer feedback.
 - [VS Code Theme Documentation](https://code.visualstudio.com/api/extension-guides/color-theme)
 - [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy coding with Cool!**
+**Enjoy coding with Coolbaseline!**
