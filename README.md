@@ -1,19 +1,3 @@
-# Cool README
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-
 # Cool Theme for VS Code
 
 Cool is a modern, dark theme for Visual Studio Code designed for clarity and style. It features:
@@ -44,7 +28,7 @@ Cool is a modern, dark theme for Visual Studio Code designed for clarity and sty
 | Comment Text           | #FFFFFF   |
 
 ## Credits
-Created by Zem. Inspired by developer feedback.
+Created by Abdul Wajid Korkani. Inspired by developer feedback.
 
 ## More Info
 - [VS Code Theme Documentation](https://code.visualstudio.com/api/extension-guides/color-theme)
