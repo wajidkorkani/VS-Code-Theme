@@ -1,5 +1,5 @@
 {
-  "name": "Coolbaseline",
+  "name": "coolbaseline",
   "displayName": "Coolbaseline",
   "description": "Coolbaseline theme is great theme for every developer.",
   "version": "0.0.2",
@@ -7,7 +7,6 @@
   "engines": {
     "vscode": "^1.104.0"
   },
-
   "icon": "media/Coolbaseline.png",
   "categories": [
     "Themes",
@@ -48,5 +47,11 @@
   },
   "dependencies": {
     "@mdn/browser-compat-data": "^5.6.29"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
